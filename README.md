@@ -6,3 +6,6 @@ DoS is a common attack that could have a severe impact on WSN’s functionalitie
 
 The classification of  "attack type " has been done using Logistic Regression and Random Forest Classifier with over sampling.
 The project was done using Apache Pyspark.
+
+Dataset Link :
+https://www.kaggle.com/bassamkasasbeh1/wsnds
